@@ -1,0 +1,7 @@
+1000 9dfff
+9f000 9ffff
+100000 5ee2afff
+5ee2c000 60e9bfff
+60e9d000 6ed39fff
+75fff000 75ffffff
+100000000 87f7fffff
